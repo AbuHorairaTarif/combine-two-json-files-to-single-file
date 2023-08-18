@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Luxury Hotel",
+    "price": 250,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "amenities": [
+      "concierge service",
+      "spa",
+      "kitchenette",
+      "free Wi-Fi"
+    ]
+  },
+  {
+    "name": "Cozy Inn",
+    "price": 150,
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "amenities": [
+      "wheel-chair available",
+      "free Wi-Fi",
+      "swimming pool",
+      "restaurant",
+      "concierge service"
+    ]
+  },
+  {
+    "name": "Seaside Resort",
+    "price": 300,
+    "latitude": 25.7617,
+    "longitude": -80.1918,
+    "amenities": [
+      "pet-friendly",
+      "kitchenette"
+    ]
+  },
+  {
+    "name": "Mountain Retreat",
+    "price": 180,
+    "latitude": 39.5501,
+    "longitude": -105.7821,
+    "amenities": [
+      "breakfast included",
+      "free Wi-Fi",
+      "fitness center",
+      "kitchenette",
+      "concierge service"
+    ]
+  },
+  {
+    "name": "City View Hotel",
+    "price": 200,
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "amenities": [
+      "breakfast included",
+      "spa",
+      "free Wi-Fi"
+    ]
+  },
+  {
+    "name": "Budget Motel",
+    "price": 50,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "amenities": [
+      "breakfast included",
+      "restaurant",
+      "free Wi-Fi",
+      "spa",
+      "kitchenette"
+    ]
+  },
+  {
+    "name": "Elegant Lodge",
+    "price": 300,
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "amenities": [
+      "concierge service",
+      "swimming pool",
+      "breakfast included",
+      "free Wi-Fi",
+      "kitchenette"
+    ]
+  },
+  {
+    "name": "Riverside Inn",
+    "price": 80,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "amenities": [
+      "fitness center",
+      "restaurant",
+      "pet-friendly",
+      "free Wi-Fi",
+      "parking",
+      "kitchenette"
+    ]
+  },
+  {
+    "name": "Historic Manor",
+    "price": 220,
+    "latitude": 38.9072,
+    "longitude": -77.0369,
+    "amenities": [
+      "free Wi-Fi",
+      "spa",
+      "concierge service",
+      "swimming pool",
+      "fitness center",
+      "pet-friendly"
+    ]
+  },
+  {
+    "name": "Beachfront Resort",
+    "price": 400,
+    "latitude": 33.6891,
+    "longitude": -117.8297,
+    "amenities": [
+      "pet-friendly",
+      "wheel-chair available",
+      "swimming pool"
+    ]
+  },
+  {
+    "name": "Countryside Lodge",
+    "price": 120,
+    "latitude": 36.7783,
+    "longitude": -119.4179,
+    "amenities": [
+      "swimming pool",
+      "free Wi-Fi",
+      "restaurant",
+      "parking",
+      "spa"
+    ]
+  },
+  {
+    "name": "Mountain View Hotel",
+    "price": 180,
+    "latitude": 41.8781,
+    "longitude": -87.6298,
+    "amenities": [
+      "spa",
+      "fitness center",
+      "free Wi-Fi",
+      "pet-friendly",
+      "breakfast included",
+      "concierge service"
+    ]
+  },
+  {
+    "name": "Modern Downtown Hotel",
+    "price": 300,
+    "latitude": 29.7604,
+    "longitude": -95.3698,
+    "amenities": [
+      "wheel-chair available",
+      "parking",
+      "free Wi-Fi"
+    ]
+  },
+  {
+    "name": "Quaint Bed & Breakfast",
+    "price": 90,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "amenities": [
+      "spa",
+      "restaurant",
+      "swimming pool",
+      "kitchenette",
+      "parking",
+      "free Wi-Fi"
+    ]
+  },
+  {
+    "name": "Rooftop Retreat",
+    "price": 150,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "amenities": [
+      "restaurant",
+      "swimming pool",
+      "wheel-chair available",
+      "kitchenette",
+      "breakfast included"
+    ]
+  },
+  {
+    "name": "Charming Cottage",
+    "price": 70,
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "amenities": [
+      "breakfast included",
+      "fitness center"
+    ]
+  },
+  {
+    "name": "Lakeside Lodge",
+    "price": 180,
+    "latitude": 35.6895,
+    "longitude": -105.9378,
+    "amenities": [
+      "spa",
+      "swimming pool",
+      "parking"
+    ]
+  },
+  {
+    "name": "Cosy Cabins",
+    "price": 120,
+    "latitude": 38.5816,
+    "longitude": -121.4944,
+    "amenities": [
+      "parking",
+      "spa",
+      "concierge service",
+      "restaurant",
+      "swimming pool",
+      "fitness center"
+    ]
+  },
+  {
+    "name": "Grand Plaza Hotel",
+    "price": 250,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "amenities": [
+      "pet-friendly",
+      "breakfast included",
+      "kitchenette",
+      "wheel-chair available"
+    ]
+  },
+  {
+    "name": "Tranquil Oasis",
+    "price": 160,
+    "latitude": 29.7604,
+    "longitude": -95.3698,
+    "amenities": [
+      "pet-friendly",
+      "swimming pool",
+      "spa",
+      "concierge service",
+      "parking"
+    ]
+  },
+  {
+    "name": "Secluded Hideaway",
+    "price": 80,
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "amenities": [
+      "restaurant",
+      "swimming pool",
+      "kitchenette"
+    ]
+  },
+  {
+    "name": "Chic Boutique Hotel",
+    "price": 200,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "amenities": [
+      "pet-friendly",
+      "concierge service",
+      "restaurant",
+      "swimming pool"
+    ]
+  },
+  {
+    "name": "Rustic Lodge",
+    "price": 130,
+    "latitude": 39.5501,
+    "longitude": -105.7821,
+    "amenities": [
+      "pet-friendly",
+      "restaurant",
+      "fitness center",
+      "kitchenette",
+      "free Wi-Fi"
+    ]
+  },
+  {
+    "name": "Oceanfront Retreat",
+    "price": 350,
+    "latitude": 25.7617,
+    "longitude": -80.1918,
+    "amenities": [
+      "restaurant",
+      "breakfast included"
+    ]
+  },
+  {
+    "name": "Ski Resort Inn",
+    "price": 180,
+    "latitude": 45.4215,
+    "longitude": -75.6972,
+    "amenities": [
+      "wheel-chair available",
+      "kitchenette",
+      "fitness center",
+      "pet-friendly",
+      "breakfast included",
+      "parking"
+    ]
+  },
+  {
+    "name": "Art Deco Hotel",
+    "price": 170,
+    "latitude": 25.7617,
+    "longitude": -80.1918,
+    "amenities": [
+      "pet-friendly",
+      "swimming pool",
+      "kitchenette",
+      "concierge service",
+      "wheel-chair available",
+      "breakfast included"
+    ]
+  },
+  {
+    "name": "Country Club Estate",
+    "price": 300,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "amenities": [
+      "fitness center",
+      "parking",
+      "free Wi-Fi",
+      "breakfast included",
+      "spa",
+      "concierge service"
+    ]
+  },
+  {
+    "name": "Serenity Lodge",
+    "price": 110,
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "amenities": [
+      "spa",
+      "restaurant",
+      "pet-friendly",
+      "kitchenette",
+      "fitness center",
+      "free Wi-Fi"
+    ]
+  },
+  {
+    "name": "Rural Retreat",
+    "price": 90,
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "amenities": [
+      "swimming pool",
+      "concierge service",
+      "pet-friendly",
+      "parking",
+      "fitness center"
+    ]
+  }
+]
